@@ -40,6 +40,7 @@ Refactoring the code allows the program to perform better and utilize less memor
 
 The disadvantage is that refactoring can introduce new bugs into the code, no longer allowing it to run properly. If one person refactors the code to a degree that it is no longer easily understandable to a second person looking at the code it can also create additional burdens and delay programming. This especially applies as the code gets more complex or needs to be continously changed or updated.
 
+
 *How do these pros and cons apply to refactoring the original VBA script?*
 
 In our code, refactoring led to a clear improvement in performace and made the code look cleaner and more simple by getting rid of the nested For loop.
