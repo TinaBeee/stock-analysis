@@ -8,11 +8,11 @@ The analysis shows a steep did in share price performance between 2017 and 2018.
 
 ### 2017 share price performance
 
-<img src="https://user-images.githubusercontent.com/90064437/139564461-a0125d7e-0ae4-4aa6-bbb6-9a46658ffdff.png" width="227">
+<img src="https://user-images.githubusercontent.com/90064437/139564461-a0125d7e-0ae4-4aa6-bbb6-9a46658ffdff.png" width="275">
 
 ### 2018 share price performance
 
-<img src="https://user-images.githubusercontent.com/90064437/139564524-052ef112-e289-43b5-b103-6c53d8afb62f.png" width="227">
+<img src="https://user-images.githubusercontent.com/90064437/139564524-052ef112-e289-43b5-b103-6c53d8afb62f.png" width="275">
 
 ## Refactored code performance
 
@@ -21,15 +21,15 @@ Refactoring the original code allowed us to significantly reduce the time it too
 ### Refactored performance increase for 2017 data
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90064437/139564694-55d0f206-eb97-4fd6-bdb7-36a1656ba60e.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/90064437/139564720-2fc5ac99-7454-4e98-87ab-65dfad390916.png" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/90064437/139564694-55d0f206-eb97-4fd6-bdb7-36a1656ba60e.png" width="250" />
+  <img src="https://user-images.githubusercontent.com/90064437/139564720-2fc5ac99-7454-4e98-87ab-65dfad390916.png" width="250" /> 
 </p>
 
 ### Refactored performance increase for 2018 data
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90064437/139564763-8251029b-0f41-47b7-b0b4-3693537931cb.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/90064437/139564775-dd5db574-8639-4348-9256-4ef28c2c4df5.png" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/90064437/139564763-8251029b-0f41-47b7-b0b4-3693537931cb.png" width="250" />
+  <img src="https://user-images.githubusercontent.com/90064437/139564775-dd5db574-8639-4348-9256-4ef28c2c4df5.png" width="250" /> 
 </p>
 
 ### Summary
